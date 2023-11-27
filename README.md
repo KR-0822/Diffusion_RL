@@ -1,13 +1,16 @@
 # Diffusion_RL
 Text-to-Image+RLHF
 HPSv2 Reward model
+
+Wandb 결과
+
 https://wandb.ai/rudfuf0822/SD_with_HPS_real?workspace=user-rudfuf0822
 
 딥러닝 프로젝트
 
 
 
-## References
+# References
 
 [1]	Aditya Ramesh, Mikhail Pavlov, Gabriel Goh, Scott Gray, Chelsea Voss, Alec Radford, Mark Chen, and Ilya Sutskever. Zero-shot text-to-image generation. In International Conference on Machine Learning, pages 8821–8831. PMLR, 2021. 
 
