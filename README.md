@@ -4,7 +4,11 @@ HPSv2 Reward model
 https://wandb.ai/rudfuf0822/SD_with_HPS_real?workspace=user-rudfuf0822
 
 딥러닝 프로젝트
-References
+
+
+
+## References
+
 [1]	Aditya Ramesh, Mikhail Pavlov, Gabriel Goh, Scott Gray, Chelsea Voss, Alec Radford, Mark Chen, and Ilya Sutskever. Zero-shot text-to-image generation. In International Conference on Machine Learning, pages 8821–8831. PMLR, 2021. 
 
 [2]	Nataniel Ruiz, Yuanzhen Li, Varun Jampani, Yael Pritch, Michael Rubinstein, and Kfir Aberman. Dreambooth: Fine tuning text-to-image diffusion models for subject-driven generation. 2022. 
